@@ -2,11 +2,11 @@
 
 Welcome to my portfolio. I'm a Data Scientist / ML Engineer showcasing my latest work from Kaggle and public GitHub repositories.
 
-## 🚀 Featured Project (Latest Kaggle Competition)
-### [Name of the Kaggle Competition]
-* **What I did:** [One sentence explaining your approach, e.g., "Built a gradient boosting model to predict sales data."]
+## 🚀 Featured Project (Orbit Wars)
+### [Orbit Wars]
+* **What I did:** [Developed a dual-engine machine learning agent using ONNX Runtime models to simulate game trajectories and execute real-time flight logistics for the Orbit Wars simulation competition.]
 * **Tech Stack:** Python, Pandas, Scikit-Learn, LightGBM
-* **Links:** [👉 View my Jupyter Notebook](./Stanford-rna-competition.ipynb) | [Kaggle Competition Link](https://www.kaggle.com/competitions/stanford-rna-3d-folding-2)
+* **Links:** [👉 View my Jupyter Notebook](./Main.ipynb) | [Kaggle Competition Link](https://www.kaggle.com/competitions/orbit-wars/overview)
 
 ## 🛠️ Technical Toolbox
 * **Languages:** Python, SQL
