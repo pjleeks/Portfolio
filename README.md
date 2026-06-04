@@ -6,7 +6,7 @@ Welcome to my portfolio. I'm a Data Scientist / ML Engineer showcasing my latest
 ### [Name of the Kaggle Competition]
 * **What I did:** [One sentence explaining your approach, e.g., "Built a gradient boosting model to predict sales data."]
 * **Tech Stack:** Python, Pandas, Scikit-Learn, LightGBM
-* **Links:** [👉 View my Jupyter Notebook](./stanford-rna-comepetition.ipynb) | [Kaggle Competition Link](URL_HERE)
+* **Links:** [👉 View my Jupyter Notebook](./Stanford-rna-comepetition.ipynb) | [Kaggle Competition Link](URL_HERE)
 
 ## 🛠️ Technical Toolbox
 * **Languages:** Python, SQL
