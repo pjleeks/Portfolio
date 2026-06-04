@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Orbit Wars Match Replay</title>
+    <script src="https://www.kaggle.com/static/assets/render/sandbox/sandbox.js"></script>
+</head>
+<body style="margin: 0; padding: 0; background-color: #0b0c10; display: flex; justify-content: center; align-items: center; height: 100vh;">
+
+    <div id="container" style="width: 90vw; height: 90vh; max-width: 1000px; max-height: 750px; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,0.5);"></div>
+
+    <script>
+        // Fetches your uploaded 4MB replay json file
+        fetch('./78420173.json')
+            .then(response => response.json())
+            .then(data => {
+                // Renders the moving simulation UI using your JSON data
+                const container = document.getElementById('container');
+                window.kaggle_environments.render("orbit_wars", data, container);
+            })
+            .catch(err => console.error("Error loading replay file:", err));
+    </script>
+</body>
+</html>
