@@ -10,6 +10,8 @@ Welcome to my portfolio. I'm a Data Scientist / ML Engineer showcasing my latest
 * [💻 View Agent Core (Main.ipynb)](https://github.com/pjleeks/Portfolio/blob/main/Main.ipynb)
 * [🛠️ View Replay Parser Script (Replay_Analysis.py)](https://github.com/pjleeks/Portfolio/blob/main/Replay_Analysis.py)
 * [📦 Download Raw Match Data (78420173.json)](https://github.com/pjleeks/Portfolio/blob/main/78420173.json)
+### 🎮 Live Match Playback
+* [👉 Click here to watch my Bot play Orbit Wars live in your browser](https://pjleeks.github.io/Portfolio/match.html)
   
 ## 🛠️ Technical Toolbox
 * **Languages:** Python, SQL
