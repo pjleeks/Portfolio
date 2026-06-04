@@ -1,4 +1,4 @@
-# [Your Name] - Data Portfolio
+# Paul Leeks - Data Portfolio
 
 Welcome to my portfolio. I'm a Data Scientist / ML Engineer showcasing my latest work from Kaggle and public GitHub repositories.
 
